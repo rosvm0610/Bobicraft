@@ -1,0 +1,160 @@
+ @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+ body {
+     margin: 0;
+     padding-top: 800px;
+     text-align: center;
+ }
+
+ .perfil {
+     width: 175px;
+     margin-bottom: 50px;
+     border-radius: 50%;
+
+ }
+
+ #Welcome {
+
+     position: absolute;
+     height: 800px;
+     color: #FFFFFF;
+     left: 0;
+     top: 0;
+     bottom: 0;
+     right: 0;
+     opacity: 0.83;
+     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+     display: table;
+     width: 100%;
+     height: 100%;
+     z-index: 9;
+
+ }
+
+
+
+ h1 {
+
+     font-size: 40px;
+     font-family: sans-serif;
+     font-weight: 300;
+
+ }
+
+ #nombre {
+     font-size: 50px;
+     line-height: 1.2;
+     font-family: 'Cinzel Decorative', cursive;
+
+ }
+
+ h2 {
+     font-size: 30px;
+     font-weight: 300;
+     line-height: 1.2;
+     font-family: monospace;
+ }
+
+ #bio {
+
+     padding: 50px;
+     text-align: center;
+ }
+
+ .line {
+     height: 6px;
+     background-color: #000;
+     width: 70px;
+     margin: 8px auto;
+ }
+
+
+ p {
+     max-width: 450px;
+     margin: 25px auto;
+     font-size: 17px;
+     line-height: 1.3;
+ }
+
+ .interno {
+
+     display: table-cell;
+     position: relative;
+     text-align: center;
+     vertical-align: middle;
+
+ }
+
+
+ .menu {
+     list-style: none;
+     position: fixed;
+     top: 0px;
+     z-index: 10;
+     width: 100%;
+     margin-top: 0px;
+     background: #80ff00;
+ }
+
+
+
+ .links {
+     display: inline;
+     padding-left: 33px;
+     padding-right: 25px;
+     padding-bottom: 5px;
+     font-family: fantasy;
+     font-size: 20px
+ }
+
+ .links:hover {
+     font-size: 25px;
+     text-decoration: underline;
+ }
+
+ html {
+     scroll-behavior: smooth;
+ }
+
+ a {font-family: 'Caveat', cursive;
+     text-decoration: none;
+     color: chocolate;
+     text-shadow: 2px 2px green;
+ }
+
+
+ .article:hover {
+     color: fuchsia;
+ }
+
+ #CONTACTO {
+     background: BlueViolet;
+ }
+
+ #imgn {
+     width: 300px;
+ }
+
+ #CONTACTO iframe {
+     background: BlueViolet;
+ }
+
+ #TEXTO a {
+     width: 300px;
+     text-shadow: none !important;
+ }
+
+ #CONTACTO {
+     background: BlueViolet;
+ }
+
+ #imgn {
+     width: 300px;
+ }
+
+ #CONTACTO {
+     background: BlueViolet;
+ }
+
+ #imgn {
+     width: 300px;
+ }
